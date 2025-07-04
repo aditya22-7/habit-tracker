@@ -59,4 +59,8 @@ npm start
 yarn start
 
 ![image](https://github.com/user-attachments/assets/0843124f-1f83-4c82-9ad8-d83f2e7e477a)
+![image](https://github.com/user-attachments/assets/e3ccd338-fdf1-4bea-858f-94010b3ff15e)
+![image](https://github.com/user-attachments/assets/78a1c4a5-2b90-4770-b085-4d5196890b0d)
+
+
 
